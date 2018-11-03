@@ -1,3 +1,3 @@
 # Lab-Activity---REST-Clients
 
-![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
+![alt text](https://github.com/MuhdAthir/Lab-Activity---REST-Clients/blob/master/screenshot/ss.PNG)
